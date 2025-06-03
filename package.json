@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-cicd-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for Jenkins CI/CD demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Kulsoom Bano",
+  "license": "ISC"
+}
